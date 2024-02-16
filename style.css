@@ -17,7 +17,8 @@ padding: 24px 0;
 }
 
     .cabecalho-imagem{
-        width: 20%;
+        width: 50%;
+      justify-content: right;
     }
 
     .cabecalho-lista-item{
@@ -29,7 +30,9 @@ padding: 24px 0;
 
     .escola-globo {
 
-        width: 15%;
+        width: 5%;
+        padding: 10px 0;
+        width: 10%;
     }
 
     .escola {
@@ -53,3 +56,137 @@ padding: 24px 0;
 
         padding: 24px 0;
     }
+
+    body{
+
+        .poppins-thin {
+            font-family: "Poppins", sans-serif;
+            font-weight: 100;
+            font-style: normal;
+          }
+          
+          .poppins-extralight {
+            font-family: "Poppins", sans-serif;
+            font-weight: 200;
+            font-style: normal;
+          }
+          
+          .poppins-light {
+            font-family: "Poppins", sans-serif;
+            font-weight: 300;
+            font-style: normal;
+          }
+          
+          .poppins-regular {
+            font-family: "Poppins", sans-serif;
+            font-weight: 400;
+            font-style: normal;
+          }
+          
+          .poppins-medium {
+            font-family: "Poppins", sans-serif;
+            font-weight: 500;
+            font-style: normal;
+          }
+          
+          .poppins-semibold {
+            font-family: "Poppins", sans-serif;
+            font-weight: 600;
+            font-style: normal;
+          }
+          
+          .poppins-bold {
+            font-family: "Poppins", sans-serif;
+            font-weight: 700;
+            font-style: normal;
+          }
+          
+          .poppins-extrabold {
+            font-family: "Poppins", sans-serif;
+            font-weight: 800;
+            font-style: normal;
+          }
+          
+          .poppins-black {
+            font-family: "Poppins", sans-serif;
+            font-weight: 900;
+            font-style: normal;
+          }
+          
+          .poppins-thin-italic {
+            font-family: "Poppins", sans-serif;
+            font-weight: 100;
+            font-style: italic;
+          }
+          
+          .poppins-extralight-italic {
+            font-family: "Poppins", sans-serif;
+            font-weight: 200;
+            font-style: italic;
+          }
+          
+          .poppins-light-italic {
+            font-family: "Poppins", sans-serif;
+            font-weight: 300;
+            font-style: italic;
+          }
+          
+          .poppins-regular-italic {
+            font-family: "Poppins", sans-serif;
+            font-weight: 400;
+            font-style: italic;
+          }
+          
+          .poppins-medium-italic {
+            font-family: "Poppins", sans-serif;
+            font-weight: 500;
+            font-style: italic;
+          }
+          
+          .poppins-semibold-italic {
+            font-family: "Poppins", sans-serif;
+            font-weight: 600;
+            font-style: italic;
+          }
+          
+          .poppins-bold-italic {
+            font-family: "Poppins", sans-serif;
+            font-weight: 700;
+            font-style: italic;
+          }
+          
+          .poppins-extrabold-italic {
+            font-family: "Poppins", sans-serif;
+            font-weight: 800;
+            font-style: italic;
+          }
+          
+          .poppins-black-italic {
+            font-family: "Poppins", sans-serif;
+            font-weight: 900;
+            font-style: italic;
+          }
+          
+    }
+
+    .professor-imagem {
+
+        width: 120px;
+    }
+
+    .professor-icone {
+
+        width: 50px;
+    }
+
+    .professores-titulo {
+
+    text-align: center;
+
+    }
+
+  .professores-div {
+
+   text-align: center;
+
+  }
